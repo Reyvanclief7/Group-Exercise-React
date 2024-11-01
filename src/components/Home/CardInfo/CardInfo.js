@@ -1,6 +1,6 @@
 import React from 'react';
 import Evolution from './Evolution';
-import TypeEffect from 'TypeEffect';
+import TypeEffect from './TypeEffect';
 import Logo from './Logo';
 
 function CardInfo() {
