@@ -2,24 +2,9 @@ const App = () => {
   const hello = "Hello World";
   return (
     <>
-      <h1>{hello}</h1>;
-      <h1>Hello World</h1>;
-      <Hello />
-      <Hello />
+      <h1>test</h1>
+      <h2>{hello}</h2>
     </>
   );
 };
-
-const Hello = () => {
-  return (
-    <>
-    <h3>Component Hello</h3>
-    <World />
-    </>
-  )
-}
-
-const World = () => {
-  return <h3>Component World</h3>
-}
 export default App;
