@@ -1,7 +1,7 @@
 import React from "react";
 
 function Gen2() {
-    return <div>Gen2</div>;
+    return <div style={{ color: 'green' }}>Gen2</div>;
 }
 
 export default Gen2;
