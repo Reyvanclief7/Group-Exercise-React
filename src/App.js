@@ -7,6 +7,9 @@ function App() {
   return (
     <div>
       <h1>Exercise Group O^2</h1>
+      <p>Kalangi, Reyvan</p>
+      <p>Noya, Cliefford</p>
+      <p>Kawonal, Avrilia</p>
       <Header />
       <Home />
       <Footer />
